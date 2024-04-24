@@ -1,0 +1,7 @@
+{
+  "name": "jon-photo-gallery",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
